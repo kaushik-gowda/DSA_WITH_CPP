@@ -27,3 +27,4 @@ int main() {
 // This program prompts the user to enter the size of an array and then the integers that will populate the array. It then iterates through the array to find and display the smallest number.
 // sample input: 5, 10, 20, 30, 40, 50
 // sample output: 10
+
