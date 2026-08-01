@@ -11,7 +11,7 @@ int Factorial(int n) {
         for(int i = 1; i <= n; i++) {
             fact *= i;
         }
-        return fact;
+    return fact;
     }
 }
 
